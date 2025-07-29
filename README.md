@@ -26,6 +26,12 @@ This repository presents a data-driven case study evaluating diabetes care quali
 - Marked regional disparities highlight need for **targeted intervention and benchmarking**.
 
 ---
+## 📸 Preview
+
+![Dashboard Preview](https://github.com/Shivansh9307/UK-Diabetes-Data-Pipeline/blob/main/dashboard/Type%201%20Diabetes.jpg)
+![Dashboard Preview](https://github.com/Shivansh9307/UK-Diabetes-Data-Pipeline/blob/main/dashboard/Type%202%20Diabetes.jpg)
+
+---
 
 ## 🧠 Tools Used
 
